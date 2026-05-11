@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Hi, I'm Maor Malka 👋
@@ -97,4 +96,3 @@ Production-ready web application with backend APIs and scalable architecture.
 ![Email](https://img.shields.io/badge/maor4211@gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white)
 
 </div>
-```
