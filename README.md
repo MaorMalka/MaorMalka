@@ -18,9 +18,9 @@ Building infrastructure, automation pipelines and scalable systems.
 
 <br><br>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MaorMalka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaorMalka&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
 
-<img height="170em" src="https://streak-stats.demolab.com?user=MaorMalka&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=MaorMalka&theme=midnight-purple&hide_border=true&background=00000000"/>
 
 </div>
 
@@ -95,7 +95,7 @@ Production-ready web application with backend APIs and scalable architecture.
 
 <div align="center">
 
-![snake gif](https://github.com/MaorMalka/MaorMalka/blob/output/github-snake.svg)
+![snake gif](https://raw.githubusercontent.com/MaorMalka/MaorMalka/output/github-snake.svg)
 
 </div>
 
