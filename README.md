@@ -8,7 +8,7 @@ Building infrastructure, automation pipelines and scalable systems.
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/maor-malka/))
 
 ![Email](https://img.shields.io/badge/maor4211@gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white)
 
@@ -91,7 +91,7 @@ Production-ready web application with backend APIs and scalable architecture.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/maor-malka/))
 
 ![Email](https://img.shields.io/badge/maor4211@gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white)
 
