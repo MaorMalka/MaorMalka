@@ -8,13 +8,11 @@ Building scalable infrastructure, automation pipelines and cloud-native applicat
 
 <br>
 
-<a href="https://linkedin.com">
+<a href="[https://linkedin.com](https://www.linkedin.com/in/maor-malka/)">
   <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:maor4211@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maor4211@gmail.com)
 
 <br><br>
 
@@ -95,12 +93,10 @@ Production-ready web application with backend APIs and scalable architecture.
 
 <div align="center">
 
-<a href="https://linkedin.com">
+<a href="[https://linkedin.com](https://www.linkedin.com/in/maor-malka/)">
   <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:maor4211@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maor4211@gmail.com)
 
 </div>
