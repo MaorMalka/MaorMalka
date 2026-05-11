@@ -55,14 +55,55 @@ Building infrastructure, automation pipelines and scalable systems.
 
 # 📌 Featured Projects
 
-## 🔹 DevOps Infrastructure Project
-Dockerized multi-service infrastructure with Kubernetes deployment and CI/CD pipelines.
+## 🚀 Kubernetes Monitoring Stack
 
-## 🔹 Automation Scripts
-Linux and Bash automation tools for deployment and monitoring.
+Production-like monitoring stack using:
+- Kubernetes
+- Prometheus
+- Grafana
+- Loki
+- GitHub Actions
+- Docker
 
-## 🔹 Full Stack Application
-Production-ready web application with backend APIs and scalable architecture.
+Features:
+- Automated CI/CD pipelines
+- Centralized logging
+- Container orchestration
+- Health monitoring
+- Infrastructure automation
+
+<br>
+
+## ⚡ CI/CD Automation Platform
+
+CI/CD workflows for automated testing, Docker builds and deployments using:
+- GitHub Actions
+- Docker
+- Kubernetes
+- Bash scripting
+
+Features:
+- Automated deployments
+- Build pipelines
+- Environment automation
+- Deployment validation
+
+<br>
+
+## 🌐 Full Stack Infrastructure Project
+
+Scalable full-stack application infrastructure with:
+- React frontend
+- Node.js backend
+- PostgreSQL
+- Redis
+- Dockerized services
+
+Features:
+- Multi-container architecture
+- API integrations
+- Database optimization
+- Scalable deployments
 
 ---
 
