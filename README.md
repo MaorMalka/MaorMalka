@@ -100,6 +100,7 @@ Production-ready web application with backend APIs and scalable architecture.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maor-malka/)
 
-![Email](https://img.shields.io/badge/maor4211@gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white)
-
+<p align="center">
+  📧 maor4211@gmail.com
+</p>
 </div>
