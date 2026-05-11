@@ -12,7 +12,7 @@ Building scalable infrastructure, automation pipelines and cloud-native applicat
   <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:maor@gmail.com">
   <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
