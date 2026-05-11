@@ -91,6 +91,14 @@ Production-ready web application with backend APIs and scalable architecture.
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/MaorMalka/MaorMalka/blob/output/github-snake.svg)
+
+</div>
+
 # 🌍 Connect With Me
 
 <div align="center">
