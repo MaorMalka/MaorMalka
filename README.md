@@ -1,58 +1,106 @@
+<div align="center">
+
 # Hi, I'm Maor Malka 👋
 
-## DevOps Engineer | Software Engineering Graduate
+### DevOps & Backend Engineer
 
-Creative and results-driven Software Engineer with a B.Sc. in Software Engineering from SCE Ashdod (2025).  
-Passionate about DevOps, automation, infrastructure, and building robust, scalable web applications.
+Building scalable infrastructure, automation pipelines and cloud-native applications.
 
-## Tech Stack
+<br>
+
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=MaorMalka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img src="https://streak-stats.demolab.com?user=MaorMalka&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# 🚀 Tech Stack
 
 ### DevOps & Cloud
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000?style=for-the-badge&logo=githubactions)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-000?style=for-the-badge&logo=githubactions)
-![Ansible](https://img.shields.io/badge/Ansible-000?style=for-the-badge&logo=ansible)
-![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform)
-![Render](https://img.shields.io/badge/Render-000?style=for-the-badge&logo=render)
+
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
+![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=for-the-badge&logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions)
+![Terraform](https://img.shields.io/badge/Terraform-111111?style=for-the-badge&logo=terraform)
+
+---
 
 ### Backend & Frontend
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![NPM](https://img.shields.io/badge/NPM-000?style=for-the-badge&logo=npm)
+
+![NodeJS](https://img.shields.io/badge/NodeJS-111111?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
+
+---
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=databricks)
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis)
 
-## What I'm Working On
+---
 
-- Building hands-on DevOps and cloud projects
-- Improving skills in Docker, Kubernetes, GitHub Actions, and CI/CD
-- Expanding knowledge in automation, infrastructure, backend development, and databases
+# 📌 Featured Projects
 
-## Additional Skills
+## 🔹 DevOps Infrastructure Project
+Dockerized multi-service infrastructure with Kubernetes deployment and CI/CD pipelines.
 
-- Version control with Git
-- Unit testing
-- Agile methodologies
-- Building scalable web applications
-- Working with databases and backend APIs
+## 🔹 Automation Scripts
+Linux and Bash automation tools for deployment and monitoring.
 
-## Connect With Me
+## 🔹 Full Stack Application
+Production-ready web application with backend APIs and scalable architecture.
 
-[LinkedIn](https://www.linkedin.com/)
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaorMalka&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🎯 Currently Learning
+
+- Advanced Kubernetes
+- Infrastructure as Code
+- CI/CD Optimization
+- Cloud Architecture
+- Monitoring & Observability
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
