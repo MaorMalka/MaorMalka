@@ -20,8 +20,7 @@ Building infrastructure, automation pipelines and scalable systems.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaorMalka&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=MaorMalka&theme=midnight-purple&hide_border=true&background=00000000"/>
-
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MaorMalka&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
