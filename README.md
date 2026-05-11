@@ -1,24 +1,23 @@
+```md
 <div align="center">
 
 # Hi, I'm Maor Malka 👋
 
-### DevOps & Backend Engineer
+### Cloud • DevOps • Backend Engineering
 
-Building scalable infrastructure, automation pipelines and cloud-native applications.
+Building infrastructure, automation pipelines and scalable systems.
 
 <br>
 
-<a href="[https://linkedin.com](https://www.linkedin.com/in/maor-malka/)">
-  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maor4211@gmail.com)
+![Email](https://img.shields.io/badge/maor4211@gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white)
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MaorMalka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MaorMalka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img src="https://streak-stats.demolab.com?user=MaorMalka&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=MaorMalka&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -28,31 +27,31 @@ Building scalable infrastructure, automation pipelines and cloud-native applicat
 
 ### DevOps & Cloud
 
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
-![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=for-the-badge&logo=kubernetes)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions)
-![Terraform](https://img.shields.io/badge/Terraform-111111?style=for-the-badge&logo=terraform)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-111111?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
 
 ### Backend & Frontend
 
-![NodeJS](https://img.shields.io/badge/NodeJS-111111?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
+![NodeJS](https://img.shields.io/badge/NodeJS-111111?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
@@ -93,10 +92,9 @@ Production-ready web application with backend APIs and scalable architecture.
 
 <div align="center">
 
-<a href="[https://linkedin.com](https://www.linkedin.com/in/maor-malka/)">
-  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maor4211@gmail.com)
+![Email](https://img.shields.io/badge/maor4211@gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white)
 
 </div>
+```
