@@ -21,7 +21,7 @@ Building infrastructure, automation pipelines and scalable systems.
 
 ---
 
-# 🚀 Tech Stack
+<h2 align="center">⚡ Tech Stack ⚡</h2>
 
 ### DevOps & Cloud
 
