@@ -14,11 +14,7 @@ Building infrastructure, automation pipelines and scalable systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maor-malka/)
 
-![Email](https://img.shields.io/badge/maor4211@gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white)
-
-<br><br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaorMalka&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
+<br>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MaorMalka&theme=tokyonight&hide_border=true"/>
 </div>
