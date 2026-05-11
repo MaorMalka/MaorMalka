@@ -1,6 +1,10 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:BB86FC&height=220&section=header&text=Maor%20Malka&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
 <div align="center">
 
 # Hi, I'm Maor Malka 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BB86FC&size=28&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Cloud+%26+Infrastructure;Docker+%7C+Kubernetes+%7C+CI%2FCD;Backend+Developer)](https://git.io/typing-svg)
 
 ### Cloud • DevOps • Backend Engineering
 
