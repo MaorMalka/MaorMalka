@@ -22,7 +22,7 @@ Building infrastructure, automation pipelines and scalable systems.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaorMalka&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img width="100%" src="./assets/contribution-graph.svg"/>
 
 </div>
 
