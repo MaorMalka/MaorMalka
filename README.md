@@ -16,6 +16,15 @@ Building infrastructure, automation pipelines and scalable systems.
 
 <br>
 
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaorMalka&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</div>
 
 ---
 
@@ -103,17 +112,6 @@ Features:
 - Database optimization
 - Scalable deployments
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaorMalka&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
 
 # 🎯 Currently Learning
 
